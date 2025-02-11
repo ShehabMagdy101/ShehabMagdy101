@@ -79,17 +79,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/shehab-magdy-se2122003x" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo" />
+  </a>
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/ShehabMagdy101/ShehabMagdy101/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=shehab2003magdy" alt="Layout with last medium posts"  />
-</div>
 
 ###
