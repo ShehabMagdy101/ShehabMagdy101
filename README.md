@@ -68,6 +68,7 @@
 </div>
 
 ###
+---
 
 <h3 align="left">🔥 my Stats</h3>
 
@@ -87,6 +88,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ShehabMagdy101/ShehabMagdy101/output/snake.svg" alt="Snake animation" />
+
 
 ###
