@@ -1,6 +1,11 @@
-<h1 align="left">Welcome to my Place 🎇</h1>
+<h1 align="left">Welcome to my Place 
+  <img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2Mm53dmhwYm52YnRiZmhzeDJwdjlveHpoNGlhd2dudXc4YjA3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zExs2Q2h1EHfE4P6G/giphy.gif"  />
+  🎇</h1>
+
+
 
 ###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shehab-magdy-se2122003x/" target="_blank">
@@ -24,11 +29,11 @@
 
 ###
 
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2Mm53dmhwYm52YnRiZmhzeDJwdjlveHpoNGlhd2dudXc4YjA3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zExs2Q2h1EHfE4P6G/giphy.gif"  />
+
 
 ###
 
-<h3 align="left">🛠 Languages and tools</h3>
+<h3 align="left">🛠 Frameworks and tools</h3>
 
 ###
 
