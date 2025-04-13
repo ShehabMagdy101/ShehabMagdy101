@@ -17,7 +17,10 @@
 
 ###
 
-<p align="left">I'm a Data Science student from Egypt, currently in my third year in Faculty of CS at Alexandria University 👨‍🎓<br>I'm also a technical writer on medium  ✏</p>
+<p align="left">I'm a Data Science student from Egypt, currently in my third year in Faculty of CS at Alexandria University 👨‍🎓
+
+ <br> I am a Data Science Major 📊 </p>
+  <br>I'm also a technical writer on medium  ✏</p>
 
 ###
 
