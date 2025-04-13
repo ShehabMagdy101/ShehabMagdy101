@@ -1,5 +1,4 @@
 <h1 align="left">Welcome to my Place 
-  <img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2Mm53dmhwYm52YnRiZmhzeDJwdjlveHpoNGlhd2dudXc4YjA3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zExs2Q2h1EHfE4P6G/giphy.gif"  />
   🎇</h1>
 
 
@@ -37,6 +36,8 @@
 
 ###
 
+ <img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2Mm53dmhwYm52YnRiZmhzeDJwdjlveHpoNGlhd2dudXc4YjA3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zExs2Q2h1EHfE4P6G/giphy.gif"  />
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
@@ -73,6 +74,7 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  
 </div>
 
 ###
@@ -80,16 +82,12 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ShehabMagdy101.ShehabMagdy101&"  />
-</div>
+
 
 ###
 
 <br clear="both">
 
 ###
-
-
 
 ###
