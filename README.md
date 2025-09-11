@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">🛠 Frameworks and tools</h3>
+<h2 align="left">🛠 Frameworks and tools</h2>
 
 ###
 
