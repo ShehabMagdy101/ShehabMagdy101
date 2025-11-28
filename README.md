@@ -1,93 +1,52 @@
-<h1 align="left">Welcome to my GitHub 
-  🎇</h1>
+<!-- =====================  HEADER GIF  ===================== -->
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p4ZTZ0MzMyMmw0b3ZhdW5oM3Fnb20yYWpxb3E4ODhnNmN1dzlxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+</p>
+
+<h1 align="center">Hey there, I'm Shehab 👋</h1>
+
+<p align="center">
+  <strong>Data Science Student • Technical Writer • AI Engineering Enthusiast</strong>
+  <br>
+  Faculty of Computers & Data Science, Alexandria University
+</p>
 
 
 
-###
+## 👨‍💻 About Me  
+- 🇪🇬 Data Science student from Egypt  
+- 🎓 Fourth-year DS major at FCAD, Alexandria University  
+- ✍ Medium technical writer focusing on AI, LLMs, and productivity  
+- 🤖 Passionate about AI engineering, LLM applications & intelligent systems  
 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/shehab-magdy-se2122003x/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+
+## 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/shehab-magdy-se2122003x/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://medium.com/@shehab2003magdy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  <a href="https://medium.com/@shehab2003magdy">
+    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&style=for-the-badge&logoColor=white" />
   </a>
-</div>
-
-###
-
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
+</p>
 
 
-- I'm a Data Science student from Egypt, currently in my third year in Faculty of CS at Alexandria University 👨‍🎓
-- I'm a Data Science Major 📊
-- I'm also a technical writer on medium  ✏
-
-###
-
+## 🛠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,dart,flutter,firebase,docker,git,github,mysql,sqlite,mongodb,arduino,figma,anaconda,jupyter" />
+</p>
 
 
-###
-
-<h2 align="left">🛠 Frameworks and tools</h2>
-
-###
-
- <img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3Z2Mm53dmhwYm52YnRiZmhzeDJwdjlveHpoNGlhd2dudXc4YjA3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9zExs2Q2h1EHfE4P6G/giphy.gif"  />
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/rstudioide/75AADB" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  
-</div>
-
-###
-
-
-###
+## 🧩 Current Focus  
+- Building **NLP-powered applications** with LLMs  
+- Developing **Flutter apps** with AI features  
+- Writing articles about **applied AI for students**  
+- Strengthening C++ & core programming skills  
 
 
 
-###
-
-<br clear="both">
-
-###
-
-###
+<p align="center">
+  <em>“Learn. Apply. Teach. Repeat.”</em>
+</p>
