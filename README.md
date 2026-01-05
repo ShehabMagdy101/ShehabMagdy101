@@ -1,7 +1,7 @@
 <!-- =====================  HEADER GIF  ===================== -->
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2p4ZTZ0MzMyMmw0b3ZhdW5oM3Fnb20yYWpxb3E4ODhnNmN1dzlxOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWl5cmZnN2F6a2szZDFzdmR2cWZ4Z3VtZ2R2cTg2OWcxMXh6cTIyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">Hey there, I'm Shehab 👋</h1>
